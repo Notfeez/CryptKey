@@ -1,0 +1,40 @@
+# Скомпилированные файлы
+*.exe
+*.out
+*.app
+
+# Объектные файлы
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Файлы сборки
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Файлы, созданные при компиляции
+main
+*.exe
+
+# Временные файлы
+*.tmp
+*.swp
+*.swo
+*~
+
+# Файлы с ключами
+*.key
+*.enc
+*.dec
